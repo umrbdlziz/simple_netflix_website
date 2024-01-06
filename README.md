@@ -7,7 +7,7 @@ First ReactJs project that allow user to search for movie
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/umrbdlziz/simple_netflix_website.git
 ```
 
 Go to the project directory
@@ -26,6 +26,6 @@ Start the server
 ```
 
 
-##API
+## API
 
 https://monkeytype2.netlify.app/
